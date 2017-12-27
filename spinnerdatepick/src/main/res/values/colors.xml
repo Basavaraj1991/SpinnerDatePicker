@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/clove_new_dark_app_color</color>
+    <color name="colorPrimaryDark">@color/clove_new_dark_app_color</color>
+    <color name="colorPrimaryFg">#FFFFFF</color>
+    <color name="colorAccent">@color/clove_fg_text_color</color>
+    <color name="black_color">#000000</color>
+    <color name="white_color">#ffffff</color>
+    <color name="colorTabBg">#000000</color>
+
+    <color name="button_background">#231F20</color>
+    <color name="button_gray_background">#949699</color>
+    <color name="light_gray_background">#EEEEEE</color>
+    <color name="magenta">#941882</color>
+
+    <color name="bg_color_grey">#eeeeee</color>
+    <color name="orange_text">#C59E3F</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="radiobutton_bg_color">#17A63F</color>
+    <color name="tabsScrollColor">#FF0033</color>
+
+    <color name="blue_color_1976d2">#1976D2</color>
+    <color name="black_color_616161">#616161</color>
+    <color name="yellow_color_F9A825">#F9A825</color>
+    ,
+    <color name="grey_color_E0E0E0">#E0E0E0</color>
+
+    <color name="clove_base_color">@color/clove_new_background_color</color>
+    <color name="clove_selected_color">#6CBF6A</color>
+    <color name="clove_non_selected_color">#D2D3D5</color>
+    <color name="clove_list_and_popup_bg">#D1D4D5</color>
+    <color name="clove_fg_text_color">@color/dark_megenta2</color>
+    <color name="tau_color_text">#6b4a48</color>
+    <color name="clove_fg_text_lighter_color">#8a6765</color>
+    <color name="clove_fg_text_darker_color">#5C3C32</color>
+    <color name="clove_fg_text_on_light_color">#CC000000</color>
+    <!--<color name="clove_button_bg_color">#144B60</color>-->
+    <color name="clove_button_bg_color">#09979B</color>
+    <!--<color name="clove_dialog_bg">#E0E3E3</color>-->
+    <color name="clove_dialog_bg">@color/clove_new_background_color</color>
+    <color name="clove_border_color">#c8c9cb</color>
+    <color name="clove_list_delimeter_color">#e0e5e5</color>
+    <color name="clove_selected_guardian_color">#5cb659</color>
+    <color name="clove_dashboard_status_battery_bg_color">#1b707c</color>
+    <color name="clove_navi_menu_bg">#17707c</color>
+    <color name="clove_navi_menu_header_bg">#134a60</color>
+    <color name="clove_dashboard_notification_bg">#155D73</color>
+    <color name="clove_panic_dialog_bg">#D1D4D6</color>
+    <color name="clove_panic_dialog_seekbar_bg">#7E7F80</color>
+    <color name="clove_toggle_on_color">#219c47</color>
+    <color name="clove_toggle_off_color">#AFB2B4</color>
+    <color name="clove_notification_bg_red">#e51b2b</color>
+    <color name="clove_fitness_non_selected_button_bg">#68C8CA</color>
+
+    <color name="circleProgressCompleteStartGradient">@color/clove_navi_menu_bg</color>
+    <color name="circleProgressCompleteEndGradient">@color/clove_navi_menu_bg</color>
+    <color name="circleProgressIncompleteStartGradient">#59c7d4</color>
+    <color name="circleProgressIncompleteEndGradient">#59c7d4</color>
+    <color name="transparent_background">#00FF0000</color>
+
+    <color name="message_overlay_color">#668A6765</color>
+    <color name="generic_dialog_yes_btn_color">#2a2438</color>
+    <color name="grey_color_E0E0E0_tran">#AAE0E0E0</color>
+    <color name="tv_bg_color">#008c9c</color>
+    <color name="fitness_timeline_bg_color">#d1d2d4</color>
+    <color name="yellow_color">#ffd359</color>
+    <color name="blue_color">#59c7d4</color>
+    <color name="transparent_white">#AA000000</color>
+    <color name="bluetooth_background_green">#229D49</color>
+    <color name="clover_color">#A33690</color>
+    <color name="gray_line_color">#ccc</color>
+    <color name="tau_colour">#FC92D2</color>
+    <color name="change_button">#E40876</color>
+    <color name="safty_network_color">#00afba</color>
+    <color name="tau_btn_color">#F38DC8</color>
+    <color name="tau_confirm_dialog_bg_color">#DFE0E1</color>
+    <color name="tau_top_layout_bg">#30A0AA</color>
+    <color name="tau_tab_selected">#1D7989</color>
+    <color name="tau_tab_non_selected">#7f1D7989</color>
+    <color name="tau_cancel_txt_colour">#C6C889</color>
+    <color name="tau_bg">#79C8B3</color>
+    <color name="tau_change_btn_bg">#DFE0E1</color>
+    <color name="tau_change_text_colour">#6CD4DF</color>
+    <color name="smile_back_arrow">#2dadba</color>
+    <color name="green_color">#27ae60</color>
+    <color name="clove_blue_color">#30A0AA</color>
+
+
+    <color name="tau_prof_layout">#036066</color>
+    <color name="tau_time">#7f7f7f</color>
+    <color name="snakbar_text_color">@color/clove_fg_text_color</color>
+    <color name="onboard_text_color">#1D7989</color>
+
+    <color name="notify_grey_color">#ECF0F1</color>
+
+    <color name="panic_green_color">#2ecc71</color>
+    <color name="panic_red_color">#e74c3c</color>
+    <color name="clove_guardian_color">#155d73</color>
+    <color name="clove_profile_change_bg_color">#e0e1e2</color>
+    <!--new colours 13-4-17-->
+    <color name="clove_new_background_color">#FFFFFF</color>
+    <color name="clove_new_light_app_color">#EDD2D0</color>
+    <color name="clove_new_dark_app_color">#FFFFFF</color>
+    <color name="tau_color">@color/dark_gray_color</color>
+    <color name="tab_unselected">@color/darker_megenta</color>
+    <color name="tab_unselected2">@color/darker_megenta</color>
+
+    <color name="btn_text_color">#5C3C32</color>
+    <!--<color name="btn_bg_color">#C99E87</color>-->
+    <color name="btn_bg_color">@color/dark_megenta</color>
+    <color name="dark_gray_color">@color/r184_g200_b186</color>
+    <color name="tab_below_line">#521E0D</color>
+    <color name="clove_tootlbartitle_color">@color/clove_fg_text_color</color>
+    <color name="r201_g158_b135">#C99E87</color>
+    <color name="r163_g104_b85">#a36855</color>
+    <color name="r133_g85_b69">#855545</color>
+    <color name="r184_g200_b186">#B8C8BA</color>
+    <color name="battery_progress_color">#9B6251</color>
+    <color name="fitness_progress_unfilled">#fafafa</color>
+    <color name="fitness_bar_color">#f8ddc9</color>
+    <color name="graph_text_color">#6C4748</color>
+    <color name="tab_selected">@color/white</color>
+    <color name="fitness_network_filled_color">#A36855</color>
+    <color name="fitness_network_unfilled">#558A6765</color>
+
+
+    <color name="fitness_primary_color">#2dc8db</color>
+    <color name="fitness_primarydark_color">#25bacd</color>
+    <color name="fitness_gold_text_color">#ff991f</color>
+    <color name="dark_megenta">#2a2438</color>
+    <color name="darker_megenta">#121212</color>
+    <color name="light_gray">#b0b0b0</color>
+    <color name="fitness_covers_list_item_bg">#f2eeee</color>
+    <color name="dark_megenta2">#212121</color>
+    <color name="light_gray2">#4c4c4c</color>
+    <color name="myprofile">#111111</color>
+    <color name="myprofile_dark">#252424</color>
+    <color name="text_hint_color">#b0b0b0</color>
+    <color name="gender_selected">#2a2438</color>
+    <color name="gender_unselected">#b0b0b0</color>
+
+    <!--Tay related colors-->
+    <color name="tay_primary_color">#ed447d</color>
+    <color name="tay_primary_dark_color">#e2356f</color>
+    <color name="tay_light_grey">#f8f8f8</color>
+    <color name="tay_msg_grey">#cecece</color>
+    <color name="tay_light_pink">#ffebf2</color>
+    <color name="tay_contact_color">#b0b0b0</color>
+    <color name="tay_text_color">#121212</color>
+    <color name="tay_text_white">#ffffff</color>
+    <color name="tay_text_black">#212121</color>
+    <color name="tay_grey">#f2eeee</color>
+    <color name="brandcolor">#e57373</color>
+
+    <color name="home_toolbar_color">#2a2438</color>
+
+    <!--overlay related colors-->
+    <color name="tau_toolbar_ok_color">#04050c</color>
+    <color name="safety_ok_color">#ffb545</color>
+    <color name="fitness_ok_color">#31c9dc</color>
+    <color name="tau_ok_color">#ea2a6b</color>
+    <color name="overlay_background">#E6000000</color>
+
+    <!--panic toolbar colors-->
+    <color name="panic_toolbar_primary">#ffb347</color>
+    <color name="panic_toolbar_primary_dark">#fbb031</color>
+</resources>
