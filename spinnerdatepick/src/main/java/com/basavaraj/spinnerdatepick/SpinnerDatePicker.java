@@ -90,7 +90,10 @@ public class SpinnerDatePicker implements DatePicker.OnDateChangedListener{
                 if (iDatePicker!=null && mdate!=null && !mdate.isEmpty()) {
                     iDatePicker.onOkClick(mdate);
                 }else {
-                    Toast.makeText(context, "Implement IDatePicker interface", Toast.LENGTH_SHORT).show();
+                    if (iDatePicker !=null && picker!=null) {
+                        mdate = picker.getDayOfMonth() + "-" + picker.getMonth() + "-" + picker.getYear();
+                        iDatePicker.onOkClick(mdate);
+                    }
                 }
                 dtPickerDlg.dismiss();
             }
@@ -110,14 +113,5 @@ public class SpinnerDatePicker implements DatePicker.OnDateChangedListener{
         });
 
     }
-
-    public static String getDate(){
-        if(mdate!=null && !mdate.isEmpty()){
-            return mdate;
-        }else {
-            return null;
-        }
-    }
-
 
 }
