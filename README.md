@@ -15,8 +15,10 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.Basavaraj1991:SpinnerDatePicker:1.0.0'
+	        compile 'com.github.Basavaraj1991:SpinnerDatePicker:1.0.x'
 	}
+	
+	Note: x is latest release version
 
 Step 3. implement the IDatePicker interface in activity/fragment
         need to override methods.
