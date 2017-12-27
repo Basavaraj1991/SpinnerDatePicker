@@ -1,4 +1,4 @@
-package com.basavaraj.spinnerdatepick;
+package com.raj.spinnerdatepick;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -7,7 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.basavaraj.spinnerdatepick.R;
 
 import java.util.Calendar;
 

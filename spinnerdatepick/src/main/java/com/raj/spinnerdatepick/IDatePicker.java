@@ -1,4 +1,4 @@
-package com.basavaraj.spinnerdatepick;
+package com.raj.spinnerdatepick;
 
 /**
  * Created by Basavaraj Navi on 27/12/17.

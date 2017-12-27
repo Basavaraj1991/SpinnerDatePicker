@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.basavaraj.spinnerdatepick.IDatePicker;
-import com.basavaraj.spinnerdatepick.SpinnerDatePicker;
+import com.raj.spinnerdatepick.IDatePicker;
+import com.raj.spinnerdatepick.SpinnerDatePicker;
 
 public class MainActivity extends AppCompatActivity implements IDatePicker {
 
