@@ -1,7 +1,9 @@
 package com.basavaraj.spinnerdatepicker;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.TextView;
 
@@ -22,6 +24,11 @@ public class MainActivity extends AppCompatActivity implements IDatePicker {
                 SpinnerDatePicker.getInstance(MainActivity.this)
                         .setMaxDate(System.currentTimeMillis())
                         .callback(MainActivity.this)
+                        .setButtonLayoutGravity(Gravity.CENTER_HORIZONTAL)
+                        .setCardViewBackgroundColor(getResources().getColor(R.color.white))
+                        .setTitleGravity(Gravity.START|Gravity.CENTER)
+                        .setTitleBackgroundColor(Color.parseColor("#f43a39"))
+                        .setTitleTextdColor(Color.parseColor("#ffffff"))
                         .show();
             }
         });
